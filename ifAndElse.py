@@ -1,6 +1,6 @@
 x= input("x is :")
 y =input ("y is :")
 if x <y : 
-    print("YAYY")
+    print("YAYY VERY NICE") 
 else :
-    print ("NAYY")
+    print ("NAYY BETTER LUCK NEXT TIME")
